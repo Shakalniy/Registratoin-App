@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="log_in_akk">Sign in</string>
+    <string name="reg_akk">Sign up</string>
+    <string name="login_input">Input your login</string>
+    <string name="password_input">Input your password</string>
+    <string name="password_input_again">Input your password again</string>
+    <string name="email_input">Input your email address</string>
+    <string name="b_registration">Register</string>
+    <string name="b_enter">Login</string>
+    <string name="empty_login_fields">You have not entered your login or password</string>
+    <string name="empty_register_fields">You have not entered your login or email or password</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sign_in_short">Settings</string>
+    <string name="activity_login">Settings</string>
+    <string name="large_text">Settings</string>
+    <string name="action_sign_in">Settings</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">pc3UCE74Uyyk8eykvgbwy90g789gfcgw2ti7XXeu</string>
+    <string name="back4app_client_key">ZzRcIz4awyZ7zFS11FlxrXoOUIFRKPD2HyoaaoTU</string>
+</resources>
